@@ -3,15 +3,14 @@
 /* font-family: 'Oswald', sans-serif;
 font-family: 'Bebas Neue', cursive; */
 
-html {
+ html {
   font-size: 62.5%;
 }
 
-img {
-  width: 75%;
-}
 
-h2 {
+
+
+h3 {
   font-family: 'Bebas Neue', cursive;
   font-size: 5rem;
   background: -webkit-linear-gradient(80deg, white, #c168c4, #94bb2f, #381665, #11064f);
@@ -19,9 +18,9 @@ h2 {
   -webkit-text-fill-color: transparent;
   margin: 0;
 }
-
+/*
 p {
   font-family: 'Oswald', sans-serif;
   color: blue;
   font-size: 1.5rem;
-}
+} */
